@@ -1,16 +1,18 @@
-## Hi there 👋
+# Hi there! 👋 I'm Felipe H. Vidal
 
-<!--
-**FelipeHVidal/FelipeHVidal** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Security Professional & Cybersecurity Aspirant
 
-Here are some ideas to get you started:
+Retired Captain with a ZAB-recognized Bachelor's Degree in Public Security Administration. Transitioning my investigative mindset, risk assessment experience, and strong teamwork skills under high-pressure situations into digital environments.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Currently building a self-taught, hands-on foundation in Hardware, Operating Systems, Networking, and Entry-Level Cybersecurity, fully ready to support team objectives and mission success.
+
+---
+
+### 🛠️ What I am working on:
+* 💻 **System Hardening & Optimization:** Documenting OS debloating and local workstation configurations.
+* 🔧 **Hardware & Maintenance:** Explaining physical lifecycles, thermal management, and preventative maintenance.
+* 📚 **Learning Roadmap:** Advancing modularly through IA basics, Networking fundamentals, and security concepts.
+
+### 🎯 My Goals:
+* 🎖️ Achieve entry-level cybersecurity certifications (such as CompTIA A+, Security+, or similar).
+* 🤝 Join a security team where I can contribute discipline, loyalty, and structured problem-solving.
