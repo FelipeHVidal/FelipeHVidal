@@ -14,5 +14,5 @@ Currently building a self-taught, hands-on foundation in Hardware, Operating Sys
 * 📚 **Learning Roadmap:** Advancing modularly through IA basics, Networking fundamentals, and security concepts.
 
 ### 🎯 My Goals:
-* 🎖️ Achieve entry-level cybersecurity certifications (such as CompTIA A+, Security+, or similar).
+* 🎖️ Achieve foundational IT & security credentials (such as CompTIA A+ CompTIA Network+ and CompTIA Security+).
 * 🤝 Join a security team where I can contribute discipline, loyalty, and structured problem-solving.
