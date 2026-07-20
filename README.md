@@ -1,6 +1,6 @@
-# Hi there! 👋 I'm Felipe H. Vidal
+## Hi there! 👋 I'm Felipe H. Vidal
 
-## Security Professional & Cybersecurity Aspirant
+### Security Professional & Cybersecurity Aspirant
 
 Retired Captain with a ZAB-recognized Bachelor's Degree in Public Security Administration. Transitioning my investigative mindset, risk assessment experience, and strong teamwork skills under high-pressure situations into digital environments.
 
