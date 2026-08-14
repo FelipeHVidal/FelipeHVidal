@@ -1,6 +1,6 @@
 # Hi there! 👋 I'm Felipe H. Vidal
 
-## IT Security Professional & Future IT Specialist (FISI Candidate)
+## Security Professional & Future IT Specialist (Fachinformatiker für Systemintegration Candidate)
 
 Retired Captain with a ZAB-recognized Bachelor's Degree in Public Security Administration. Transitioning my analytical mindset, risk assessment experience, and strong teamwork skills under high-pressure situations into IT infrastructure and systems integration.
 
