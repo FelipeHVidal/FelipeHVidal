@@ -9,9 +9,10 @@ Currently leveraging my parental leave to build a solid, self-taught foundation 
 ---
 
 ### 🛠️ What I am working on:
-* 💻 **Systems & Hardening:** Documenting OS optimization, security configurations, and local system management (Windows & Linux).
-* 🔧 **Hardware & Maintenance:** Explaining physical lifecycles, thermal management, and preventative maintenance.
-* 📚 **Self-Taught Roadmap:** Advancing modularly through AI basics, corporate networking fundamentals (TCP/IP, routing, switching), and IT support essentials.
+* 📚 **Self-Taught Roadmap:** Advancing modularly through my preparation roadmap for the *Ausbildung*, completing foundational courses in AI, networking, and IT support; while continuously refining my technical German on a daily basis.
+* 💻 **Systems Optimization & Management:** Documenting OS formatting and optimization (Windows), alongside other secondary projects.
+* 🔧 **Hardware & Maintenance:** Diagnosing, applying, and documenting preventative maintenance on my personal hardware.
+* 📖 **Complementary Reading:** Currently reading *Learning How to Learn* (Barbara Oakley & Terry Sejnowski - _in Spanish_) to optimize my study techniques and information retention, ensuring confidence and academic success in the *Ausbildung*.
 
 ---
 
